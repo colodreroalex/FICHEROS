@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            GFicheros.CrearFichero();
-            GFicheros.MostrarFichero();
+            //GFicheros.CrearFichero();
+            //GFicheros.MostrarFichero();
+
+            Invitados.CrearInvitados();
+            Invitados.MostrarInvitados();
         }
     }
 }
